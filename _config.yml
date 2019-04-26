@@ -1,6 +1,6 @@
 title: Jay's Blog
 description: 까먹지 말자.....
-author: Jay - Park 박정후
+author: Jay - Park 
 #github: https://github.com/agusmakmun
 about: 
 disqus_shortname: jaypak
@@ -8,7 +8,7 @@ google_analytics: UA-125341308-1
 avatar_url: /static/img/avatar.jpg
 
 enableTags: true
-tagarray: []
+tagarray: [google]
 
 collections:
   project:
